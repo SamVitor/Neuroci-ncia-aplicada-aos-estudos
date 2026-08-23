@@ -23,3 +23,11 @@ Durante o desenvolvimento serão registrados problemas encontrados nas respostas
 ## Reflexão
 
 O projeto busca utilizar a Inteligência Artificial como ferramenta de apoio à aprendizagem, mantendo o pensamento crítico, a análise das fontes e a construção do conhecimento como responsabilidades do estudante.
+
+## Caderno no NotebookLM
+
+O caderno temático desenvolvido durante o projeto pode ser acessado abaixo:
+
+👉 Acessar — Neurociência Aplicada aos Estudos: https://notebook.google.com/notebook/7f536ae9-f25e-4528-ab92-6506391f84e1/preview
+
+O caderno reúne as fontes utilizadas no estudo e foi utilizado para explorar os conteúdos e realizar os testes de prompts documentados neste repositório.
